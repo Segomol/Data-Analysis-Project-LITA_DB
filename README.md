@@ -55,11 +55,7 @@ EDA involves exploring the Data to be able to answer questions about the Data su
   
   ### Data Visualisation
 
-! [Bar Chart]. (https://github.com/Segomol/Data-Analysis-Project-LITA_DB/blob/main/Charts.docx).
-  
-![Bar Chart].(https://github.com/Segomol/Data-Analysis-Project-LITA_DB/blob/main/Charts.doc).
-
-
+![](https://github.com/Segomol/Data-Analysis-Project-LITA_DB/blob/main/20220716_130440.jpg)
 
 
 
