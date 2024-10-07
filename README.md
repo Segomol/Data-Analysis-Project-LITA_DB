@@ -36,10 +36,12 @@ EDA involves exploring the Data to be able to answer questions about the Data su
 
   ### Data Analysis
   ---
-  This is where basic lines of code or queries were utilised. some DAX expressions were also used during the analysis.
-
+  This is where basic lines of code or queries were utilised. some DAX expressions were also used during the analysis
+  
 ``` SQL
   SELECT * FROM TABLE 1
   WHERE CONDITION = TRUE
   ```
+  
+  ### Data Visualisation
   
