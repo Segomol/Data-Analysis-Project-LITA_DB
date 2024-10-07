@@ -2,13 +2,15 @@
 
  ### Project Title:  Report of Sales and Analysis of Income
  
-[Project Overview].(#project-overview).
+[Project Overview](#project-overview)
 
-[Data Sources].(#data-sources).
+[Data Sources](#data-sources)
 
-[Tools Used].(#tools-used).
+[Tools Used](#tools-used)
 
-[Data Cleaning and Preparations].(#data-cleaning-preparations).
+[Data Cleaning and Preparations](#data-cleaning-preparations)
+
+[Data Analysis](#data-analysis)
 
 ### Project Overview
 ---
