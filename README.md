@@ -9,7 +9,7 @@ This Data Analysis project is aimed at presenting the result of sales generated 
 The primary source of Data used here is Data Sales.csv and this is an open source data that can be downloaded from an open source online like Data.org, Google Dataset Search, etc.
 
 ### Tools Used
-Microsoft Excel [Download Here] (https://www .wps.com)
+Microsoft Excel [Download Here] .(https://www.wps.com).
   1. For Data Cleaning
   2. For Analysis 
   3. For Data Visualization
