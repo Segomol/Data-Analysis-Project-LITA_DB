@@ -2,6 +2,14 @@
 
  ### Project Title:  Report of Sales and Analysis of Income
  
+[Project Overview].(#project-overview).
+
+[Data Sources].(#data-sources).
+
+[Tools Used].(tools-used).
+
+[Data Cleaning and Preparations].(#data-cleaning-preparations).
+
 ### Project Overview
 ---
 This Data Analysis project is aimed at presenting the result of sales generated from various stores under the conglomerate. The analysis of the income ganered over a quater is also dfisplayed here. Analysing the various parameters in the data received, is poised  to gather enoung insight to make reasonable decision and to know the best performance from our data.
@@ -20,14 +28,14 @@ Microsoft Excel [Download Here] .(https://www.wps.com).
 - SQL - Structured Query Language for Querying of Data
 - GitHub for Portfolio Building
 
-### Data Cleaning Preparations
+### Data Cleaning and Preparations
 ---
 In this aspect of Data cleaning and preparations we are going to perform the following actions:
 1. Data loading and Inspection
 2. Handling missing variables
 3. Data Cleaning and formatting
 
-### Exploratory Data Analysis 
+### Data Cleaning Preparations
 ---
 EDA involves exploring the Data to be able to answer questions about the Data such as:
 - What is the overall sales trend?
