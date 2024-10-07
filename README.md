@@ -22,3 +22,9 @@ In this aspect of Data cleaning and preparations we are going to perform the fol
 1. Data loading and Inspection
 2. Handling missing variables
 3. Data Cleaning and formatting
+
+### Exploratory Data Analysis 
+EDA involves exploring the Data to be able to answer questions about the Data such as:
+- What is the overall sales trend?
+- Which products make the top sales
+- What are the products on peak sales?
