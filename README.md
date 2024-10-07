@@ -13,5 +13,12 @@ Microsoft Excel [Download Here] .(https://www.wps.com).
   1. For Data Cleaning
   2. For Analysis 
   3. For Data Visualization
+
 - SQL - Structured Query Language for Querying of Data
 - GitHub for Portfolio Building
+
+### Data Cleaning Preparations
+In this aspect of Data cleaning and preparations we are going to perform the following actions:
+1. Data loading and Inspection
+2. Handling missing variables
+3. Data Cleaning and formatting
