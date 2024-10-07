@@ -37,16 +37,16 @@ In this aspect of Data cleaning and preparations we are going to perform the fol
 2. Handling missing variables
 3. Data Cleaning and formatting
 
-### Data Cleaning Preparations
+### Exploratory Data Analysis
 ---
 EDA involves exploring the Data to be able to answer questions about the Data such as:
 - What is the overall sales trend?
 - Which products make the top sales
 - What are the products on peak sales?
 
-  ### Data Analysis
+  ###  Data Analysis
   ---
-  This is where basic lines of code or queries were utilised. some DAX expressions were also used during the analysis
+  This is where basic lines of code or queries were utilised with some DAX expressions used during the analysis
   
 ``` SQL
   SELECT * FROM TABLE 1
